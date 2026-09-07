@@ -27,6 +27,6 @@ Grok 是马斯克旗下 xAI 公司研发的多模态大模型系列，依托 X �
 
 ---
 
-**官方持续更新入口：[老手村 官网](https://www.laoshoucun.com/grok)**
+**官方持续更新入口：[Grok](https://www.laoshoucun.com/grok)**
 
 © [老手村](https://www.laoshoucun.com/) · 本仓库为官网内容镜像，文章版权归原作者所有。
